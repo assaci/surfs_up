@@ -9,7 +9,7 @@ The purpose of this project is to retrieve weather data from SQlite database for
 
 ## Summary Statistics for June
 
-Retrieve all the temperatures for the month of June to generate the summary statistics.
+To get the summary statistics for June ,we first extracted June weather data from Climate Analysis SQlite database. We retrieved all the temperatures for the month then converted them into list, created a DataFrame from the list and generated the summary statistics for the month. 
 
 ![June_temp_stat](https://github.com/assaci/surfs_up/blob/main/June_temp_stat.PNG?raw=true)
 
