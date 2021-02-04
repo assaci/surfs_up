@@ -15,7 +15,7 @@ To get the summary statistics ,we first extracted June  and December weather dat
 
 Statistics showed that  the temperature count in June was 1700. The average temperature in June was 74. The minimum temperature was 64 and the maximum was 85.
 
-![June_temp_stat](https://github.com/assaci/surfs_up/blob/main/June_temp_stat.PNG?raw=true)
+![](https://github.com/assaci/surfs_up/blob/main/June_temp_stat.PNG?raw=true)
 
 
 ## Summary Statistics for December
