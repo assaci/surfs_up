@@ -13,7 +13,7 @@ To get the summary statistics ,we first extracted June  and December weather dat
 
 ### Statistics for June
 
-Statistics showed that  the temperature count in June was 1700. The average temperature in June was 74. The minimum temperature was 64 and the maximum was 85.
+Statistics showed that  the temperature count in June was 1700. The average temperature in June was 74. The minimum temperature 64 and the maximum 85.
 
 ![June_temp_stat](https://github.com/assaci/surfs_up/blob/main/June_temp_stat.PNG?raw=true)
 
@@ -26,9 +26,9 @@ Statistics showed that  the temperature count in June was 1517. The average temp
 
 ## Summary
 From our analysis , the average temperature for both months June and December were above 70. Even if the minimum temperature for December was 56 the maximum was 83.
-As May and February were considered the hottest and coldest months of the year in ohea. We have decided to add more queries for the 2 months. The respective average temperatures in February and May were 69.44 and 73.68. The minimum temperature were 56 and 63 while max temperature were 72 and 87. 
+As May and February were considered the hottest and coldest months of the year in Oahu. We have decided to add more queries for the 2 months. The respective average temperatures in February and May were 69.44 and 73.68. The minimum temperature were 56 and 63 while max temperature were 72 and 87. 
 
-Based these findings we could conclude that surf and ice cream shop business would be sustainable for years in Oehu Hawaii. 
+Based these findings we could conclude that surf and ice cream shop business would be sustainable for years in Oahu Hawaii. 
 
 ## Statistics for February
 
